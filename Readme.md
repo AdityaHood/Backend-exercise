@@ -1,15 +1,19 @@
 # A backend Exercise Folder
 
-# Aggregation:
+Aggregation:
 
-# Paginate:
+Paginate:
 
-# Bcrypt
+Bcrypt
 
-# JWT: ,explain bear token in it
+JWT: ,explain bear token in it
 
-# It is impossible to encrypt the password or text using bcrypt directly,we have to some middlewares for it.
+ <!-- It is impossible to encrypt the password or text using bcrypt directly,we have to some middlewares for it. -->
 
-# Middlewares provides some hooks for it like 'pre'
+Middlewares provides some hooks for it like 'pre'
 
-# Pre Hook
+Pre Hook:
+
+Cloudinary:
+
+Multer:
